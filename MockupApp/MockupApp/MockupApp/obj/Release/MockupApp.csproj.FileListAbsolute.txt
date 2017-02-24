@@ -1,0 +1,17 @@
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\MockupApp.dll
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\MockupApp.pdb
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\Xamarin.Forms.Core.dll
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\Xamarin.Forms.Platform.dll
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\Xamarin.Forms.Xaml.dll
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\Xamarin.Forms.Core.pdb
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\Xamarin.Forms.Core.xml
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\Xamarin.Forms.Platform.pdb
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\Xamarin.Forms.Xaml.xml
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\obj\Release\MockupApp.csprojResolveAssemblyReference.cache
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\obj\Release\MockupApp.MainPage.xaml.g.cs
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\obj\Release\MockupApp.App.xaml.g.cs
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\obj\Release\MockupApp.dll
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\obj\Release\MockupApp.pdb
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\obj\Release\MockupApp.dll.mdb
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp\bin\Release\MockupApp.dll.mdb
