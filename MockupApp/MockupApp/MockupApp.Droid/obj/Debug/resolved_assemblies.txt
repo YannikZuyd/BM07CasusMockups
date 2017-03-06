@@ -1,11 +1,13 @@
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\MockupApp.Droid.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll

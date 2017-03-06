@@ -13,7 +13,7 @@ namespace MockupApp
         {
             InitializeComponent();
 
-            MainPage = new MockupApp.MainPage();
+            MainPage = new NavigationPage(new Dashboard());
         }
 
         protected override void OnStart()

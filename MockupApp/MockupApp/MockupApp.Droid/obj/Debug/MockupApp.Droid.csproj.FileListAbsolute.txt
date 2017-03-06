@@ -68,5 +68,7 @@ D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\Mock
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\obj\Debug\MockupApp.Droid.dll.mdb
 D:\CloudApps\Stack\BM07CasusRepository\BM07CasusMockups\MockupApp\MockupApp\MockupApp.Droid\bin\Debug\MockupApp.Droid.dll.mdb
